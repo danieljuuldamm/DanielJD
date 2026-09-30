@@ -271,3 +271,126 @@ Dette er almindelig lærebogsviden og behøver ingen særskilt kilde: De ca. 25 
 | Uhygge, der bliver afsløret | "Screams from hell" som fup |
 | Slutning med spørgsmål og slutskærm | "Where would your hole come out?" og "straight up"-videoen |
 | **Forskellen fra BrightSide** | Alle påstande er tjekket og har kilder i beskrivelsen |
+
+---
+
+## 7. Manuskript nr. 2: "The Only Way to Survive a Falling Elevator"
+
+*Tilføjet 1. oktober 2026. Manuskriptet bruger BrightSides format "The Only Way to Survive …", så du har et til at teste mod "What if"-formatet i manuskript nr. 1.*
+
+**Format:** ca. 7½–8 minutter (ca. 1.150 ord speak). Hovedpersonen er igen figuren "You". **Fast grafik på skærmen:** et etagetal i elevatorens display, der tæller ned. Det er videoens indbyggede statuslinje.
+
+**Titler til A/B-test:**
+1. The Only Way to Survive a Falling Elevator
+2. What If Your Elevator Cable Snapped?
+3. She Fell 75 Floors in an Elevator — And Lived
+
+**Thumbnails:**
+- **A:** "You" svæver i en elevatorkabine med et knækket kabel ovenover og en rød pil ned. Tekst: **"75 FLOORS"**.
+- **B:** "You" hopper midt i faldet med en rød cirkel om fødderne. Tekst: **"DOES JUMPING WORK?"**
+- **C:** Elevatordisplay med tallet 75, der blinker rødt. Tekst: **"SHE SURVIVED"**.
+
+### [0:00–0:30] HOOK
+**VISUAL:** Elevator display counting 80… 79… 78. The cabin lights flicker, a loud snap, and "You" floats up off the floor. Freeze frame.
+**ON-SCREEN:** "WHAT DO YOU DO?"
+
+> **VO:** You step into an elevator on the 80th floor. The doors close. And then you hear it: a loud snap above your head. Your stomach drops. You're falling.
+> You have a few seconds to make a decision. Most people would do the wrong thing. By the end of this video, you'll know the only thing that actually gives you a chance, and why it has only happened a handful of times in history.
+
+### [0:30–1:20] HOW WORRIED SHOULD YOU BE?
+**VISUAL:** A US map covered with thousands of glowing elevator icons. A counter spins to 18,000,000,000. Split screen: a car crash vs. an elevator, with a scale tipping heavily toward the car.
+**ON-SCREEN:** "18 BILLION RIDES A YEAR"
+
+> **VO:** First, some good news. Americans take about eighteen billion elevator trips every year. On average, elevator incidents kill around twenty-eight people a year in the US, and about half of them aren't passengers at all. They're workers installing, repairing or maintaining elevators.
+> So as a passenger, you're far safer in an elevator than you are driving to the building. But that's not why you clicked, is it? Let's say the worst actually happens.
+
+### [1:20–2:40] WHY ELEVATORS ALMOST NEVER FALL
+**VISUAL:** 1854 New York: a man in a top hat stands on a raised platform in front of a crowd. An assistant cuts the rope with an axe. The platform drops a few centimeters and stops. The crowd gasps and cheers. Transition to a modern elevator cross-section with glowing cables, a spinning governor wheel and brake clamps gripping the rails.
+
+> **VO:** Before 1854, people were terrified of elevators, and for good reason. When the rope broke, the platform fell.
+> Then a mechanic named Elisha Otis climbed onto a platform high above a crowd in New York and told his assistant to cut the only rope holding it up. The platform dropped a few centimeters… and stopped. Otis had invented a safety brake that locks onto the rails the moment the platform starts to fall.
+> Modern elevators take that idea much further. Instead of one rope, they usually hang from several steel cables, and each one is designed to hold the car on its own. On top of that, a device called a governor watches the speed. If the car moves too fast, the governor triggers brakes that clamp onto the guide rails and stop the car. And at the bottom of the shaft, there are buffers designed to absorb the impact.
+> For an elevator to fall freely, all of these systems have to fail at once. That almost never happens… but it did happen once, in the most famous building in the world.
+
+### [2:40–4:10] THE WOMAN WHO FELL 75 FLOORS
+**VISUAL:** Foggy New York, July 28, 1945. A B-25 bomber emerges from the clouds and hits the Empire State Building. Inside, a young elevator operator in uniform. Her elevator car drops as the cables whip down the shaft. Cables pile up into springy coils at the bottom. An ambulance and rescuers arrive.
+**ON-SCREEN:** "JULY 28, 1945" → "75 FLOORS" → "GUINNESS WORLD RECORD"
+
+> **VO:** On the morning of July 28, 1945, thick fog covered New York City. A US Army B-25 bomber, lost in the fog, flew straight into the Empire State Building.
+> Inside the building, a 20-year-old elevator operator named Betty Lou Oliver was badly burned in the crash. Rescuers put her in an elevator to get her down to the ground. But the crash had damaged the elevator cables. When they snapped, the car fell seventy-five floors, more than three hundred meters.
+> And she survived.
+> She broke her neck, her back and her pelvis. But she lived, and she still holds the Guinness World Record for the longest fall survived in an elevator.
+> So how? Investigators believe two things saved her. First, as the car fell, the air in the narrow shaft had nowhere to go, and it was squeezed underneath the car like a cushion. Second, the cables that had snapped piled up at the bottom of the shaft in a big springy coil, and the car landed on top of it.
+> Pure luck. So let's talk about what *you* could do.
+
+### [4:10–4:25] QUIZ BREAK
+**VISUAL:** You floating in the cabin, turning to camera. Three option cards: "JUMP", "LIE DOWN", "STAND WITH KNEES BENT".
+**ON-SCREEN:** "WHAT WOULD YOU DO? A / B / C — COMMENT"
+
+> **VO:** Before we go on: if your elevator was falling, what would you do? A: jump right before it hits the ground. B: lie flat on the floor. C: stand with your knees bent. Write A, B or C in the comments. The answer might surprise you.
+
+### [4:25–5:30] MYTH: JUST JUMP AT THE LAST SECOND
+**VISUAL:** Slow-motion: You jumps inside the falling cabin. A speedometer shows the car falling at high speed and the jump adding a tiny upward speed. You still slams into the floor. Cartoon "BONK".
+
+> **VO:** Let's start with the answer everyone thinks of: jump just before you hit the bottom. It sounds smart. It isn't.
+> When you're falling, you're falling at the same speed as the elevator. After a long fall, that could be well over a hundred kilometers per hour. A really good jump pushes you upward at maybe ten kilometers per hour. So at best, you'd hit the floor a tiny bit slower… and that's only if you time the jump perfectly, without being able to see the bottom of the shaft.
+> And you can't jump very well anyway: in a free fall, you're floating. There's nothing to push off from. So option A is out.
+
+### [5:30–6:45] THE BEST ODDS: LIE DOWN
+**VISUAL:** Three side-by-side crash-test dummies in elevator cabins: standing straight, knees bent, lying flat. Heat-map colors show where the force hits the body. The lying-flat dummy has the force spread out evenly.
+
+> **VO:** So what about standing with your knees bent? The idea is that your legs act like shock absorbers. And they can absorb some of the impact. But in a crash this violent, the force travels through your legs, knees, hips and spine, all concentrated in a small area.
+> That's why most engineers say the best option is B: lie flat on your back on the floor. If you're lying down, the force of the impact is spread across your whole body instead of your joints and spine. And cover your head with your arms, because the ceiling panels and lights may not stay where they are.
+> Lying down won't make a seventy-five-floor fall safe. Nothing will. But it gives you the best odds you have.
+
+### [6:45–7:30] WHAT ACTUALLY HAPPENS, AND WHAT TO DO
+**VISUAL:** A stuck elevator between floors. You presses the alarm, talks into the intercom, sits down calmly. A red "X" over a figure trying to pry the doors open and climb out.
+**ON-SCREEN:** "1. PRESS ALARM · 2. CALL · 3. STAY INSIDE"
+
+> **VO:** Now for the scenario you'll actually face: the elevator gets stuck. It happens all the time, and it's scary, but it's rarely dangerous.
+> Elevators aren't airtight, so you won't run out of air. The safest thing to do is press the alarm button, use the intercom or your phone to call for help, and wait. What's dangerous is trying to pry the doors open and climb out. The elevator could start moving, or you could fall down the shaft.
+> So stay inside. Help is coming.
+
+### [7:30–7:55] PAYOFF + CTA
+**VISUAL:** Back to the opening frame: the display at 80, the snap… then the brakes clamp on and the car stops with a jolt. You exhales and gives a thumbs-up. End screen.
+**ON-SCREEN:** "WAS YOUR ANSWER RIGHT? 👇"
+
+> **VO:** So, if you ever hear that snap above your head, lie down and protect your head. But the truth is, you'll almost certainly never need to: thanks to Elisha Otis and several layers of brakes, the elevator will stop long before you hit the bottom.
+> Did you get the quiz right? Tell me in the comments. And if you want to know what happens when a plane loses an engine at 10,000 meters, watch this video next.
+
+### YouTube-beskrivelse (klar til at kopiere)
+
+```text
+What would you do if your elevator cable snapped? From Elisha Otis's daring 1854 demonstration to the woman who survived a 75-floor fall in the Empire State Building, here's what really happens and the only thing that gives you a chance.
+
+0:00 The snap
+0:30 How worried should you be?
+1:20 Why elevators almost never fall
+2:40 The woman who fell 75 floors
+4:10 Quiz: what would you do?
+4:25 Myth: jump at the last second
+5:30 The best odds: lie down
+6:45 What to do when you're stuck
+7:30 So, would you survive?
+
+Sources:
+- Betty Lou Oliver, longest fall survived in an elevator: Guinness World Records
+- 1945 Empire State Building B-25 crash: Wikipedia
+- Elevator deaths and injuries in the US: CPWR (Center for Construction Research and Training)
+- 18 billion elevator trips a year: National Elevator Industry, Inc. (NEII)
+
+Animation made with AI tools; script researched and fact-checked by the creator. This video is for entertainment and education. In an emergency, always follow the instructions of building staff and emergency services.
+```
+
+### Faktatjek (manuskript nr. 2)
+
+| Påstand | Kilde |
+|---|---|
+| Betty Lou Oliver faldt 75 etager (over 300 m) den 28. juli 1945 og overlevede med brud på nakke, ryg og bækken. Rekorden for længste overlevede elevatorfald. Kablerne lå i en fjedrende spiral i bunden | [Guinness World Records](https://www.guinnessworldrecords.com/world-records/73541-longest-fall-survived-in-a-lift-elevator), [Guinness: historien](https://www.guinnessworldrecords.com/news/2023/10/how-an-elevator-attendant-survived-a-1-000-ft-fall-down-the-empire-state-building-759670) |
+| B-25-bomberen fløj ind i Empire State Building i tæt tåge | [Wikipedia](https://en.wikipedia.org/wiki/1945_Empire_State_Building_B-25_crash) |
+| Ca. 28 dødsfald om året i USA i forbindelse med elevatorer; cirka halvdelen er arbejdere | [CPWR](https://www.cpwr.com/wp-content/uploads/elevator_escalator_BLSapproved_1.pdf) |
+| Amerikanerne tager ca. 18 mia. elevatorture om året | [NEII](https://nationalelevatorindustry.org/wp-content/uploads/2019/02/Fact-Sheet.pdf) |
+
+Almindelig viden uden særskilt kilde: Elisha Otis demonstrerede sin sikkerhedsbremse i New York i 1854. Moderne elevatorer hænger i flere kabler og har en hastighedsregulator (governor), der udløser bremser på skinnerne, og buffere i bunden af skakten. **Før du udgiver**, bør du selv tjekke to formuleringer, som jeg ikke har kunnet finde en primær kilde til: at luftpuden i skakten var med til at redde Oliver, og at "de fleste ingeniører" anbefaler at ligge ned. Begge dele bliver gentaget i mange populærvidenskabelige artikler, men formuler dem gerne forsigtigt ("experts believe", "many engineers say").
+
+**Regler:** Videoen giver et sikkerhedsråd, men det er ikke sundhedsrådgivning fra en falsk ekspert, og den fortæller tydeligt, at elevatorer er meget sikre. Den er derfor lavrisiko under reglerne fra juli 2026. Undgå at gøre ulykken fra 1945 mere dramatisk end nødvendigt; hold fokus på overlevelsen.
