@@ -145,7 +145,50 @@ Landegennemsnittene dækker alle nicher. Nicher med høj RPM (se afsnit 3) ligge
 
 *Joshua Mayo, udgivet 10. juni 2026 – [link](https://www.youtube.com/watch?v=-WSoI1zL_Z4)*
 
-**Status:** Mit miljø kan ikke åbne YouTube, og Higgsfields videoanalyse af videoen (job-id `3f67d40b-62fe-4043-b42a-2e1cebecc492`) stod stadig i kø, da rapporten blev skrevet. Det eneste, jeg har kunnet bekræfte via websøgning, er titel, skaber og dato, og at videobeskrivelsen henviser til ressourcer med niche-idéer og voiceover-værktøjer. Keypoints tilføjes, så snart analysen er færdig, eller du indsætter udskriften (på YouTube: "…mere" → "Vis udskrift").
+*Video på 39 minutter, ca. 238.000 visninger. Keypoints er udtrukket fra videoens udskrift og kapitler.*
+
+**Trin 1: Vælg niche med tre spørgsmål**
+1. Kan jeg lave 100 videoer i nichen uden at vise mit ansigt (og uden at kede mig)?
+2. Ser folk allerede den slags indhold på YouTube?
+3. Er der en klar vej til penge senere (AdSense, affiliate, egne produkter)?
+
+Hans egen testkanal lavede "top 5"-produktvideoer: bedste video fik 11.000 visninger, og den tjente lidt på affiliate.
+
+**Tre nicher, han viser eksempler på**
+- **Storytelling:** skrækhistorier (typisk 3 historier à 7–8 min pr. video, stillbilleder lavet med AI), børnehistorier (fx "The Big Silly Crocodile" med 18 mio. visninger i simpel papir-animation; en kanal, der blot læser en bog op, har 1,5 mio. visninger og link til bogen på Amazon) og AI-dokumentarer (fx "How did people sleep in medieval castles…" med 1,3 mio. visninger, mærket "altered or synthetic content").
+- **Kompilationer og lister:** top-10, forklaringsvideoer og produktlister bygget af billeder, stockfootage og Creative Commons-klip.
+- **Skærmoptagelser og tutorials:** software, AI-værktøjer, spil, "hænder-kun"-videoer (fx Lockpicking Lawyer, restaurering, Photoshop).
+
+Hans eget eksempel: en dokumentarkanal om oldtidens rigeste forretningsfolk, "The Original Billionaires", med første video om kong Salomon.
+
+**Trin 2–3: Navn og opsætning (under en time)**
+- Få ChatGPT til at foreslå kanalnavne ud fra nichen.
+- Opret en **ny Google-konto** til kanalen, så mails, brand deals og affiliate-konti holdes adskilt fra dit private.
+- Lav logo og banner med ChatGPT. Bed den om at lave et banner, der matcher logoet uden at være en kopi. Brug ikke uger på branding: "Indholdet betyder mest, og du kan forbedre det senere."
+
+**Trin 4: Lav videoen i fem trin**
+1. **Idé:** Bed AI om 10–15 videoidéer i nichen, og vælg én.
+2. **Manuskript:** Bed ikke om hele manuskriptet på én gang (så får du kun ca. 2 minutter). Bed først om en disposition til en video på fx 15 minutter, og skriv derefter ét afsnit ad gangen, startende med hooket.
+3. **Speak:** Han anbefaler din **egen stemme** (gratis, gør indholdet unikt, beskytter mod at blive stemplet som "low effort", og skaber forbindelse). En telefon i et klædeskab er nok. Alternativet er ElevenLabs.
+4. **Materiale:** Gå manuskriptet igennem linje for linje, og lav et billede til hver linje med Midjourney (fra $10/md., kan også animere billeder) eller ChatGPT. Markér linjen, når den er dækket.
+5. **Samling:** Læg speaket i tidslinjen, og placér billederne efter det. Gratis værktøjer: iMovie, DaVinci Resolve, CapCut, Canva, Adobe Express. Tilføj lette zoom, partikeleffekter og bevægelse: "nok menneskelig indsats til, at det ikke bare er stillbilleder". Musik styrer stemningen i storytelling og er næsten vigtigere end billederne (YouTube Audio Library gratis eller Epidemic Sound).
+
+**Titler og thumbnails**
+- Søg på din niche, se hvad der virker, og brug det som model uden at kopiere.
+- Thumbnail i Canva: ét stærkt billede fra videoen og 2–3 ord hvid tekst (fx "RICHEST MAN EVER").
+
+**Upload**
+- Slå "Altered or synthetic content" til, når du bruger AI-genererede billeder.
+
+**Penge**
+- Det er ikke en "bliv hurtigt rig"-ordning.
+- AdSense, når kanalen opfylder kravene.
+- **Affiliate fra dag ét** (fx Amazon Associates), selv før kanalen er monetiseret. Han oprettede affiliatekontoen før første upload.
+- Egne produkter: e-bøger, skabeloner, community, coaching, software, eller en AI-lavet børnebog på Amazon, som du læser op i en faceless video med link i beskrivelsen.
+
+**Hans afsluttende pointe:** De fleste giver op for tidligt. YouTube er langsomt i starten, og nogle videoer tager først fart måneder senere. Konsistens er det vigtigste, fordi én video kan ændre hele kanalens kurs.
+
+**Hvad det betyder for dig:** Hans metode passer til planen i [hurtig-start.md](hurtig-start.md). To ting skal justeres i forhold til 2026-reglerne: Brug gerne din egen stemme (han anbefaler den selv, og det hjælper under reglerne om "inauthentic content"), og tilføj egne fakta og kilder, så videoerne ikke bliver rene AI-kopier. I stedet for Midjourney og ChatGPT kan du lave billeder og bevægelse i Higgsfield.
 
 > Du skrev "disse to videoer", men der var kun ét link. Send gerne det andet, så tilføjer jeg dets keypoints her.
 
