@@ -394,3 +394,131 @@ Animation made with AI tools; script researched and fact-checked by the creator.
 Almindelig viden uden særskilt kilde: Elisha Otis demonstrerede sin sikkerhedsbremse i New York i 1854. Moderne elevatorer hænger i flere kabler og har en hastighedsregulator (governor), der udløser bremser på skinnerne, og buffere i bunden af skakten. **Før du udgiver**, bør du selv tjekke to formuleringer, som jeg ikke har kunnet finde en primær kilde til: at luftpuden i skakten var med til at redde Oliver, og at "de fleste ingeniører" anbefaler at ligge ned. Begge dele bliver gentaget i mange populærvidenskabelige artikler, men formuler dem gerne forsigtigt ("experts believe", "many engineers say").
 
 **Regler:** Videoen giver et sikkerhedsråd, men det er ikke sundhedsrådgivning fra en falsk ekspert, og den fortæller tydeligt, at elevatorer er meget sikre. Den er derfor lavrisiko under reglerne fra juli 2026. Undgå at gøre ulykken fra 1945 mere dramatisk end nødvendigt; hold fokus på overlevelsen.
+
+---
+
+## 8. Manuskript nr. 3 (BrightSides 2026-format): "Scientists Found an Ocean Hidden 600 KM Beneath Our Feet"
+
+*Tilføjet 1. oktober 2026. Manuskriptet følger kanalens nuværende opskrift fra [kanalanalyse-data.md](kanalanalyse-data.md): videnskabsnyhed og mysterium, kold start i fortiden, "fast forward to today", et kort, hverdagssammenligninger og "But that's not all". Varighed ca. 9–10 minutter (ca. 1.300 ord), som er BrightSides bedst præsterende længde (median 34.000 visninger).*
+
+**Titler til A/B-test** (i BrightSides formler):
+1. Scientists Found an Ocean Hidden 600 KM Beneath Our Feet 🌊🌍💎
+2. A Tiny Diamond Just Proved There's a Hidden Ocean Inside Earth
+3. We Finally Know Where Earth Hides Its Water
+
+**Thumbnails:**
+- **A:** Et tværsnit af Jorden med et glødende blåt bælte dybt nede og en rød pil. Tekst: **"OCEAN INSIDE?!"**
+- **B:** Et nærbillede af en lille brun diamant i en pincet med blåt lys indeni. Tekst: **"THIS PROVED IT"**.
+- **C:** Et kort over USA med en blå "sø" under kontinentet. Tekst: **"UNDER THE US"**.
+
+**Faste elementer på skærmen:** en dybdemåler i km og en "vand-måler", der viser, hvor meget vand vi taler om i forhold til alle verdens have.
+
+### [0:00–0:40] KOLD START I FORTIDEN
+**VISUAL:** 2008, a muddy riverbed in Juína, Brazil. Miners sift gravel with pans. One lifts a tiny, dull brown diamond, shrugs, and tosses it into a bag. Hard cut to a laboratory: a laser beam hits the stone.
+**ON-SCREEN:** "BRAZIL, 2008"
+
+> **VO:** In 2008, miners digging through river gravel in western Brazil pulled out a tiny, ugly brown diamond. It was only a few millimeters wide. Nobody would ever put it on a ring.
+> Fast forward a few years. Scientists shine a beam of light into that diamond… and find something trapped inside that nobody had ever seen in a natural sample before. Something that had traveled up from hundreds of kilometers below our feet.
+> And it was carrying a secret: evidence of a hidden reservoir of water inside the Earth, possibly as big as all of the planet's oceans combined.
+
+### [0:40–1:40] WHERE IS IT? (KORTET)
+**VISUAL:** Earth sliced open like a peach. The depth meter slides down past the crust, into the mantle, and stops on a glowing blue band between two lines labeled "410 KM" and "660 KM".
+**ON-SCREEN:** "THE TRANSITION ZONE: 410–660 KM DOWN"
+
+> **VO:** Let's look at the map, or rather, the inside of the planet.
+> Under the thin crust we live on is the mantle: almost three thousand kilometers of hot, solid rock that flows extremely slowly. And inside the mantle, between about four hundred and ten and six hundred and sixty kilometers down, there's a layer geologists call the transition zone.
+> For decades, scientists had a theory about this layer. The minerals down there, crushed by enormous pressure, should be able to soak up water, a bit like a sponge. But nobody could prove it. You can't drill 500 kilometers down. The deepest hole ever dug only made it about twelve.
+> So they needed the transition zone to come to them.
+
+### [1:40–3:10] THE DIAMOND THAT BROUGHT THE PROOF
+**VISUAL:** A cartoon diamond forming deep in the mantle, wrapping around a tiny green crystal like a safe. A volcanic eruption rockets the diamond up to the surface. In the lab, a scientist in a white coat stares at a screen showing a peak labeled "H₂O".
+**ON-SCREEN:** "RINGWOODITE: 1.5% WATER"
+
+> **VO:** That's exactly what the ugly Brazilian diamond did.
+> Diamonds form deep underground. As they grow, they sometimes trap tiny bits of the minerals around them, like a safe locking valuables inside. Then, volcanic eruptions can blast them up to the surface much faster than those minerals would normally survive the trip.
+> In 2014, a team led by geochemist Graham Pearson from the University of Alberta published what they found inside the diamond: a speck of a mineral called ringwoodite.
+> Scientists had created ringwoodite in labs and found it in meteorites, but this was the first time anyone had found it from inside our own planet. And when they analyzed it, they found that about one and a half percent of its weight was water.
+> That might not sound like much. But ringwoodite isn't a rare speck down there. It's thought to make up a huge part of the lower transition zone. So the researchers did the math: if the sample is typical, that part of the mantle alone could hold about as much water as all of Earth's oceans combined.
+
+### [3:10–4:10] WAIT… IS THERE A SEA DOWN THERE?
+**VISUAL:** You in a tiny submarine drilling downward, expecting to splash into a blue underground sea. Instead, the sub bonks into solid, glittering rock. A zoom into the crystal: water molecules locked between atoms like marbles stuck in a sponge.
+**ON-SCREEN:** "NOT A LAKE. LOCKED IN ROCK."
+
+> **VO:** Now, before you picture a giant underground sea with waves and fish, let's clear that up.
+> This water isn't sloshing around in caves. It's locked inside the crystals themselves, as tiny bits of hydrogen and oxygen built into the mineral's structure. If you could hold a chunk of it, it would feel like solid rock, not a wet sponge.
+> But on the scale of a whole planet, a tiny percentage adds up. Imagine a layer of rock hundreds of kilometers thick wrapped around the entire Earth, and every bit of it slightly damp. That's the hidden ocean.
+
+### [4:10–5:40] BUT THAT'S NOT ALL: IT'S UNDER THE US TOO
+**VISUAL:** A map of the United States covered with hundreds of little seismometer icons blinking. Earthquake waves ripple through the Earth, bending and slowing at the 660 km line. Blue "melt" spots glow beneath the middle of the country.
+**ON-SCREEN:** "SEISMOMETERS ACROSS THE US"
+
+> **VO:** But that's not all. The same year, a second team came at the mystery from a completely different direction.
+> Geophysicist Steve Jacobsen and seismologist Brandon Schmandt used a network of seismometers spread across the United States. Every time an earthquake happens somewhere on the planet, its waves travel through the Earth, and they speed up, slow down or bend depending on what they pass through.
+> Deep beneath North America, around the bottom of the transition zone, they found a pattern that looked like partial melting: rock releasing water as it sinks into the deeper mantle, like squeezing a sponge. It was exactly what you'd expect if the transition zone above was full of water.
+> So two very different methods, a tiny diamond from Brazil and seismic waves under America, were pointing at the same conclusion.
+
+### [5:40–7:00] WHY THIS CHANGES HOW WE SEE THE OCEANS
+**VISUAL:** Animated Earth over time: ocean plates diving under continents at subduction zones and carrying blue water downward; volcanoes puffing it back out. A giant conveyor belt loop.
+**ON-SCREEN:** "EARTH'S DEEP WATER CYCLE"
+
+> **VO:** So why does this matter to you, up here on the surface?
+> Because it suggests the water cycle you learned about in school, rain, rivers, oceans, clouds, is only the top half of the story.
+> When ocean plates slide beneath continents, they drag wet rock down into the mantle. Over millions of years, some of that water can be stored deep down, then slowly return to the surface through volcanoes. Some scientists think this deep reservoir may act like a buffer, helping to explain why the size of Earth's oceans has stayed so steady for so long.
+> It also feeds a big open question: where did Earth's water come from in the first place? One idea is that most of it arrived from space, on comets and asteroids. Another is that a lot of it has been inside the planet since the beginning, and slowly leaked out. The hidden ocean doesn't settle the debate, but it makes the second idea much harder to ignore.
+
+### [7:00–7:20] QUIZ BREAK
+**VISUAL:** You holding a glass of water, squinting at it suspiciously. Two cards appear: "FROM SPACE ☄️" vs "FROM INSIDE EARTH 🌍".
+**ON-SCREEN:** "WHERE DID YOUR WATER COME FROM? COMMENT ☄️ OR 🌍"
+
+> **VO:** Quick question for you: where do you think the water in your glass originally came from? Space, or the inside of the Earth? Drop a comet or a globe emoji in the comments.
+
+### [7:20–8:40] SO COULD IT EVER COME UP AND FLOOD US?
+**VISUAL:** You nervously looking at a basement floor. Then a calm cross-section: water moving upward only in tiny amounts through volcanoes, over a timeline stretching millions of years.
+**ON-SCREEN:** "NOT IN YOUR LIFETIME. OR ANYONE'S."
+
+> **VO:** And now the question everyone asks: could this water ever burst out and flood the surface?
+> No. It's locked inside solid rock hundreds of kilometers down, under pressure hundreds of thousands of times greater than the air around you. It can only move at the pace of the mantle itself, a few centimeters a year, about as fast as your fingernails grow. The tiny amounts that do come up arrive through volcanoes over millions of years.
+> So your basement is safe. But the next time you look at the ocean, remember: there may be another one, just as big, sitting quietly beneath your feet.
+
+### [8:40–9:20] PAYOFF + CTA
+**VISUAL:** Back to the riverbed in Brazil. A miner tosses a pebble aside. Zoom into the gravel: a tiny brown diamond glints. Pull back to the whole planet. End screen.
+**ON-SCREEN:** "WHAT ELSE IS DOWN THERE? 👇"
+
+> **VO:** All of this started with a diamond so ugly that nobody would ever wear it. Sometimes the biggest discoveries come in the smallest packages.
+> Scientists are still arguing about exactly how much water is down there, and new diamonds keep adding clues. So tell me in the comments: what do you think is still hiding inside our planet?
+> And if you want to know what would happen if you tried to dig all the way down there yourself, watch this video next.
+
+### YouTube-beskrivelse (klar til at kopiere)
+
+```text
+A tiny, ugly diamond found by miners in Brazil turned out to hold the first direct proof of a hidden reservoir of water 410–660 km beneath our feet, possibly as much water as all of Earth's oceans combined.
+
+0:00 The ugly diamond
+0:40 Where is the hidden ocean?
+1:40 The diamond that brought the proof
+3:10 Is there a sea down there?
+4:10 It's under the US too
+5:40 Earth's deep water cycle
+7:00 Quiz
+7:20 Could it ever flood us?
+8:40 What else is down there?
+
+Sources:
+- Pearson, D. G. et al. (2014). "Hydrous mantle transition zone indicated by ringwoodite included within diamond." Nature 507.
+- Schmandt, B., Jacobsen, S. D. et al. (2014). "Dehydration melting at the top of the lower mantle." Science 344.
+- Scientific American: "Rare Diamond Confirms That Earth's Mantle Holds an Ocean's Worth of Water"
+
+Animation made with AI tools; script researched and fact-checked by the creator.
+```
+
+### Faktatjek (manuskript nr. 3)
+
+| Påstand | Kilde |
+|---|---|
+| Ringwoodit i en diamant fra Juína, Brasilien. Holdet blev ledet af Graham Pearson fra University of Alberta. Første fund fra Jorden. Mineralet er ca. 1,5 % vand | [Pearson m.fl. 2014 (Nature)](https://www.researchgate.net/publication/260758694_Hydrous_mantle_transition_zone_indicated_by_ringwoodite_included_within_diamond), [Sci.News](https://www.sci.news/geology/science-ringwoodite-oceans-beneath-earth-01806.html), [Wikipedia: Ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite) |
+| Overgangszonen ligger 410–660 km nede. Hvis prøven er repræsentativ, kan den nederste del rumme ca. 1,4 × 10²¹ kg vand, svarende til alle verdenshavene | [Sci.News](https://www.sci.news/geology/science-ringwoodite-oceans-beneath-earth-01806.html), [Scientific American](https://www.scientificamerican.com/article/rare-diamond-confirms-that-earths-mantle-holds-an-oceans-worth-of-water/) |
+| Seismometre i hele USA viste tegn på afvandingssmeltning omkring 660 km's dybde under Nordamerika | Schmandt, Jacobsen m.fl. 2014 (Science 344). Tjek selv originalartiklens formuleringer, før du udgiver |
+
+**Tjek selv før udgivelse:** at diamanten blev fundet i **2008**, og at den var "få millimeter" stor. Begge dele står i populærvidenskabelige gengivelser, men jeg har ikke kunnet bekræfte dem i en primær kilde. Kan du ikke bekræfte dem, så skriv "A few years before…" og "tiny".
+
+**Regler:** Emnet er rent videnskabeligt og uden skræmmeelementer, så det er lavrisiko. Videoen afliver bevidst frygten ("your basement is safe") i stedet for at puste til den. Det er vigtigt under reglen fra juli 2026 om indhold, der er lavet for at manipulere følelser.
